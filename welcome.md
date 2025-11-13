@@ -1,0 +1,9 @@
+# Welcome
+
+Welcome to the Slot City API Documentation! Here you'll get an overview of all the amazing features SlotCity offers to help you integrate this API into your awesome casino.
+
+You'll see some of the best parts of SlotCity API in action — and find help on how you can turn this template into your own.
+
+### Jump right in
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Introduction</td><td><a href="https://3590886847-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsQaLK3pikuFct6LKHcJX%2Fuploads%2FQijKOttx1rVxutmZlWZM%2F657713bc772741702302652.jpg?alt=media&#x26;token=2d93efcd-8223-414e-a698-fef54c975fdd">657713bc772741702302652.jpg</a></td><td></td><td><a href="getting-started/quickstart">quickstart</a></td></tr><tr><td><strong>Fundamentals</strong></td><td>Learn the basics of SlotCity</td><td><a href="https://3590886847-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsQaLK3pikuFct6LKHcJX%2Fuploads%2FKfIkr6mC2U3DuBF4f4Cy%2Fdownload.jpg?alt=media&#x26;token=91c60898-15ae-4f45-9b8e-6bf01865177e">download.jpg</a></td><td></td><td><a href="api-reference">api-reference</a></td></tr><tr><td><strong>Dig Deeper</strong></td><td>API Reference</td><td><a href="https://3590886847-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsQaLK3pikuFct6LKHcJX%2Fuploads%2FExrha1RG4rgGLZM79zav%2F65a7f60ebd0231705506318.png?alt=media&#x26;token=76546b8b-849d-441f-88f8-982c5b90adda">65a7f60ebd0231705506318.png</a></td><td></td><td><a href="getting-started/publish-your-docs">publish-your-docs</a></td></tr></tbody></table>
